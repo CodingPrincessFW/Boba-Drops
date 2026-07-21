@@ -1,1 +1,35 @@
-
+img {
+    width: 600px;
+    position: relative;
+        right: 0px;
+}
+body {
+    h1 {
+       font-size: 50px; 
+       font-family: Comic Sans MS;
+       color: rgb(89, 53, 5)
+    }
+    h2 {
+        font-size: 35px;
+        font-family: Courier New;
+        font-weight: normal;
+        color: rgb(95, 246, 103)
+    }
+    h3 {
+         font-size: 25px;
+        font-family: ui-monospace;
+        font-weight: normal;
+        color: rgb(230, 201, 122)
+    }
+    p {
+        font-size: 20px;
+        font-family: arial;
+        font-weight: normal;
+        color: rgb(153, 210, 227)
+    }
+    text-align: center;
+    background-image: url(https://copilot.microsoft.com/th/id/BCO.3c7b7956-db36-4c98-8a8f-7e8e8c5cef65.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px -500px;
+}
